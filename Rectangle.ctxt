@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rectangle()
+comment1.params=l\ w
+comment1.target=Rectangle(float,\ float)
+comment2.params=
+comment2.target=void\ readShape()
+comment3.params=
+comment3.target=void\ computeArea()
+comment4.params=
+comment4.target=void\ computePerimeter()
+comment5.params=
+comment5.target=void\ displayShape()
+comment6.params=
+comment6.target=void\ draw()
+numComments=7
